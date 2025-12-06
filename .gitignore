@@ -1,0 +1,30 @@
+# Flutter generated files
+.dart_tool/
+.idea/
+.metadata
+android/
+ios/
+linux/
+macos/
+web/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor related
+*.swp
+*.swo
+*.iml
+
+# Logs
+*.log
+
+# Packages
+.packages
+*.lock
+
+# Compiled artifacts
+*.apk
+*.ipa
